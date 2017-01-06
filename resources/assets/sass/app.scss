@@ -1,0 +1,47 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.navbar {
+    margin-top: 15px;
+}
+
+.panel-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    &-column {
+        flex: 4;
+        padding-right: 15px;
+    }
+    &-operator {
+        flex: 4;
+        padding-right: 15px;
+    }
+    &-input {
+        flex: 6;
+        padding-right: 15px;
+    }
+    &-btn {
+        flex: 1;
+    }
+}
+
+.pagination-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination-input {
+    width: 45px;
+}
