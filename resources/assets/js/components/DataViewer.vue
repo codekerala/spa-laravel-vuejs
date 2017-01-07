@@ -28,7 +28,7 @@
                         @keyup.enter="fetchData" placeholder="Search">
                 </div>
                 <div class="filter-btn">
-                    <button class="btn btn-primary btn-sm btn-block">Filter</button>
+                    <button class="btn btn-primary btn-sm btn-block" @click="fetchData">Filter</button>
                 </div>
             </div>
             <table class="table table-striped">
