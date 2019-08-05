@@ -32,11 +32,15 @@
 
 ### Want More?
 
+SAAS invoicing and purchasing solution with multi database.
 Find the link for paid full source code from codecanyon.
 
-[Flow Demo](https://flow.codekerala.com)
+[Meridian Demo](https://meridian.codekerala.com)
 
-[Buy Flow Now](https://codecanyon.net/item/flow-simple-crm-for-freelancers-and-small-businesses/22641018)
+Email: user@meridian.test
+Password: password
+
+[Buy Meridian Now](https://codecanyon.net/item/meridian-saas-platform-for-invoicing-and-purchasing/24225094)
 
 
 ### On Youtube
